@@ -13,9 +13,9 @@ igual a um determinado N.
 Convergence of the series:
 
 A série abaixo converge para o número π quando n → ∞.
-    n
+    
 4 * ∑ ( (−1)^i / 2i + 1 )
-   i=0
+   
 Codifique um programa que solicita ao usuário o número de parcelas da série e calcula
 e exibe o valor aproximado de π usando o número solicitado de parcelas.
 
